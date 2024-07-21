@@ -200,11 +200,3 @@ module top;
     $dumpvars; // Dump all variables
   end
 endmodule
-
-////////////////
-<<<<<<< HEAD
-    initial begin
-        $display("My changes");
-        $display("Incoming changes");
-    end
->>>>>>> deb1824 (D-ff Layered TB)
